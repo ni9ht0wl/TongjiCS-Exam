@@ -1,6 +1,10 @@
 # TongjiCS-Exam
-Some links
-- [E-Book Download](https://zh.z-lib.gs/)
+E-Book Download:
+
+- [Z-Library](https://zh.z-lib.gd/)
+- [Z-Library](https://zh.z-library.sk/)
+- [Z-Library](https://zh.z-lib.life/)
+- [Z-Library](https://z-lib.blog/)
 
 More repositories:
 - [TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course)
